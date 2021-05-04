@@ -1,0 +1,60 @@
+.form-wrapper{
+  padding: 30px 60px;
+}
+
+.form-group{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.form-header{
+  text-align: center;
+}
+
+.submit-div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.pageCenter {
+  display: flex;
+  justify-content: center;
+  padding-top: 22vh;
+  height: 50vh;
+}
+
+.action-icon{
+  font-size: 20px;
+  color: black;
+}
+
+
+body{
+  font-size: 18px;
+  background-color: #e7e7e7;
+  padding: 0px !important;
+}
+li::marker {
+  display:none !important;
+}
+
+
+.centerDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.response-card-index{
+  background-color: #868e96;
+  color: #f8f9fa;
+  font-size: 28px;
+}
+.response-page-header{    
+  padding: 18px;
+  justify-content: end;
+  display: flex;
+}
